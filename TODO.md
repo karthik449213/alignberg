@@ -1,0 +1,3 @@
+- [x] Fix unused imports in about.tsx (remove Card, CardContent)
+- [x] Fix unescaped apostrophes in contact.tsx (escape I'm and let's)
+- [x] Fix unused import in skills.tsx (remove Badge)
